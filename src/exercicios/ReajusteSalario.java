@@ -16,4 +16,4 @@ public class ReajusteSalario {
         System.out.println(" O salario é R$: " + salario + " Reais e com reajuste de 10% fica em R$: " + reajuste + " Reais");
     }
 }
-}
+
