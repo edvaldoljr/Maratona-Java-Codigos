@@ -1,6 +1,6 @@
 package academy.devdojo.maratonajava;
 
-public class TiposPrimitivos {
+public class Aula02TiposPrimitivos {
     public static void main(String[] args) {
 
             boolean casadoVerdadeiro = true;

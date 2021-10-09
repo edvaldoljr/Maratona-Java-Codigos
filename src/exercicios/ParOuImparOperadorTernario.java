@@ -17,5 +17,5 @@ public class ParOuImparOperadorTernario {
         String resultado;
         resultado = numero == 0 ? "É PAR" : "É IMPAR";
         System.out.println(resultado);
-    }
+}
 }

@@ -1,6 +1,6 @@
 package academy.devdojo.maratonajava;
 
-public class EstruturaCondicionalIfElse {
+public class Aula07EstruturaCondicionalIfElse {
     public static void main(String[] args) {
         int idade = 18;
         boolean isAutorizadoComprarBebida = idade >= 18;

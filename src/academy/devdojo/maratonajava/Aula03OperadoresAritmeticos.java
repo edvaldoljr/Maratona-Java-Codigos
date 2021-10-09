@@ -1,6 +1,6 @@
 package academy.devdojo.maratonajava;
 
-public class OperadoresAritmeticos {
+public class Aula03OperadoresAritmeticos {
     public static void main(String[] args) {
         // Operadores  + - / *
         int a = 30;

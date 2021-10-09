@@ -1,6 +1,6 @@
 package academy.devdojo.maratonajava;
 
-public class OperadoresAtribuicao {
+public class Aula04OperadoresAtribuicao {
     public static void main(String[] args) {
         // =, ++, --, -=, +=, *=, /=, %=
         int salario = 1000;
