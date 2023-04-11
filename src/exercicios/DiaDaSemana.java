@@ -14,7 +14,11 @@ public class DiaDaSemana {
         System.out.println("Digite um numero da semana");
         byte num = scanner.nextByte();
 
-
+        switch (num) {
+            case 1,7 -> System.out.println("Final de semana");
+            case 2,3,4,5,6 -> System.out.println("Dia útil");
+            default -> System.out.println("Opção inválida");
+        }
     }
 }
 
