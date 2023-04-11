@@ -1,6 +1,6 @@
 package academy.devdojo.maratonajava;
 
-public class Aula06OperadoresRelacionais {
+public class Aula04OperadoresRelacionais {
     public static void main(String[] args) {
         boolean dezMaiorQueVinte = 10 > 20;
         System.out.println(dezMaiorQueVinte);

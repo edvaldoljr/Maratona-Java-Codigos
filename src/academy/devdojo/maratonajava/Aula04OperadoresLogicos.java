@@ -1,6 +1,6 @@
 package academy.devdojo.maratonajava;
 
-public class Aula05OperadoresLogicos {
+public class Aula04OperadoresLogicos {
     public static void main(String[] args) {
         // && (AND)
         // || (OU)

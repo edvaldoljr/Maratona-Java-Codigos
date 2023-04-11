@@ -1,6 +1,6 @@
 package academy.devdojo.maratonajava;
 
-public class Aula08EstruturaCondicionaOperadorTernario {
+public class Aula05EstruturaCondicionaOperadorTernario {
 
     public static void main(String[] args) {
 
