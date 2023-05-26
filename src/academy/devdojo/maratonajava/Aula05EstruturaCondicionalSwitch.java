@@ -2,7 +2,7 @@ package academy.devdojo.maratonajava;
 
 import java.util.Scanner;
 
-public class Aula09EstruturaCondicionalSwitch {
+public class Aula05EstruturaCondicionalSwitch {
 
     //Imprima os dias da semana 1 como domingo
     public static void main(String[] args) {
