@@ -8,6 +8,7 @@ public class Aula11EstruturaDeRepeticaoDoWhile {
 
         do {
             System.out.println(++cont);
+            System.out.println("jessica");
         } while (cont < 10);
     }
 }
